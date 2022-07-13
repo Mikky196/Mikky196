@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mikky196
+- 👋 Hi, I’m Micheal Adeniran 
 - 👀 I’m interested in Backend projects
 - 🌱 I’m currently studying Backend Engineering @AltSchool
 - 💞️ I’m looking to collaborate on any Backend project
