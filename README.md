@@ -1,8 +1,7 @@
 # Hello there; welcome 👋🏾
 [![Linkedin Badge](https://img.shields.io/badge/-MichealAdeniran-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micheal-adeniran-41bb181a9/)](https://www.linkedin.com/in/micheal-adeniran-41bb181a9/) [![Twitter Badge](https://img.shields.io/badge/-@mikkyutd-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mikkyutd)](https://twitter.com/mikkyutd)
 
-I'm a student at AltSchool Africa currently studying to become a Backend Engineer [NodeJS]. 
-**Here's a quick summary about me**:
+. **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying Computer Engineering at Obafemi Awolowo University and have a little experience in web development.
