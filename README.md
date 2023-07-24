@@ -4,10 +4,10 @@
 . **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying Computer Engineering at Obafemi Awolowo University and have a little experience in web development.
+- 💡 Fun fact: I'm currently studying Computer Engineering at Obafemi Awolowo University. I am working on Flutter and have a little experience in web development.
 - 🌱 I’m currently learning Flutter with Dart for cross-platform Mobile App development.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Flutter Developer, Software Engineer, Front Engineer, or Backend Engineer (Intern or Junior level).
+- 💼 Job interests: Flutter Developer (Intern or Junior level).
 - 📫 You can contact me by emailing oluwapamilerinmicheal@gmail.com.
 
 ---
